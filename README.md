@@ -1,16 +1,16 @@
 # Build Sessions Starter
 
-**English** · [Hrvatski](README.hr.md)
+**English** · [Hrvatski](https://github.com/AIAT-AIandBusinessgrowth/build-sessions-starter-hr)
 
 Your first tool with an AI agent, in one day. You don't need to know how to code.
 
-Before the workshop: [setup guide](docs/setup-guide-en.pdf) and [cheat sheet](docs/cheat-sheet-en.pdf). Both are also in Croatian: [setup guide](docs/setup-guide-hr.pdf), [cheat sheet](docs/cheat-sheet-hr.pdf). Pick the language you like.
+Before the workshop: [setup guide](docs/setup-guide-en.pdf) and [cheat sheet](docs/cheat-sheet-en.pdf). Prefer Croatian? The [Croatian starter](https://github.com/AIAT-AIandBusinessgrowth/build-sessions-starter-hr) has everything in Croatian. Pick the one you like.
 
 ## Three steps
 
 1. **Get this folder.** Click **Code → Download ZIP** and unzip it. With Git: `git clone` works too.
 2. **Open it** in Claude Code or Codex. In the app: open the folder. In the terminal: go into the folder and type `claude` or `codex`.
-3. **Type `start`.** Prefer Croatian? Type `kreni`, and the agent works in Croatian.
+3. **Type `start`.**
 
 The agent gets to know you, helps you find an idea, plans it with you, builds a first version and checks it. You decide, it does the work.
 
