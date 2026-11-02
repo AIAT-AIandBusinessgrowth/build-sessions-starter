@@ -1,8 +1,10 @@
-English: [README.md](README.md)
-
 # Build Sessions Starter
 
+[English](README.md) · **Hrvatski**
+
 Tvoj prvi alat s AI agentom, u jednom danu. Ne moraš znati programirati.
+
+Prije radionice: [upute za pripremu](docs/setup-guide-hr.pdf) i [kratke upute](docs/cheat-sheet-hr.pdf). Oboje postoji i na engleskom: [setup guide](docs/setup-guide-en.pdf), [cheat sheet](docs/cheat-sheet-en.pdf). Odaberi jezik koji ti više odgovara.
 
 ## Tri koraka
 
@@ -34,5 +36,7 @@ Samo izmišljeni podaci. Bez stvarnih imena, klijenata, datoteka s posla, lozink
 ## Kako nastaviti
 
 Ista mapa, isti plan. Ponovno otvori agenta i reci `gdje smo`. Više vježbi: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
+
+Dijelimo ovo kakvo jest, bez podrške. Greške i ideje prijavi kao issue.
 
 AI Factory Austria AI:AT financira Zajedničko poduzeće EuroHPC (EuroHPC Joint Undertaking) u okviru sporazuma o dodjeli bespovratnih sredstava br. 101253078. Licencija: CC BY-SA 4.0, vidi `LICENSE`.

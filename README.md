@@ -1,8 +1,10 @@
 # Build Sessions Starter
 
-Hrvatski: [README.hr.md](README.hr.md)
+**English** · [Hrvatski](README.hr.md)
 
 Your first tool with an AI agent, in one day. You don't need to know how to code.
+
+Before the workshop: [setup guide](docs/setup-guide-en.pdf) and [cheat sheet](docs/cheat-sheet-en.pdf). Both are also in Croatian: [setup guide](docs/setup-guide-hr.pdf), [cheat sheet](docs/cheat-sheet-hr.pdf). Pick the language you like.
 
 ## Three steps
 
@@ -34,5 +36,7 @@ Only made-up data. No real names, customers, files from work, passwords or keys.
 ## Keep going
 
 Same folder, same plan. Open the agent again and say `where are we`. More exercises: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
+
+Shared as is, without support. Found an error or have an idea? Open an issue.
 
 AI Factory Austria AI:AT is funded by the EuroHPC Joint Undertaking under grant agreement No 101253078. Licence: CC BY-SA 4.0, see `LICENSE`.
