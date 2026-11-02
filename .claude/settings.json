@@ -7,7 +7,10 @@
       "Read(~/.aws/**)",
       "Bash(rm -rf:*)",
       "Bash(sudo:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(gh repo:*)",
+      "Bash(git remote add:*)",
+      "Bash(git remote set-url:*)"
     ]
   }
 }

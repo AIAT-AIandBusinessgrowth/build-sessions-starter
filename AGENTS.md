@@ -36,6 +36,10 @@ You guide one person through building their first small tool with an AI agent, o
 
 After steps 1, 4, 5, 6 and 7, add two short sentences to `notes/learned.md`: what we did and one thing worth remembering.
 
+## Saving versions (Git)
+
+If this folder is a Git repository, after steps 4, 5, 6 and 7 tell the person in one line that now is a good moment to save: "Save a version: in GitHub Desktop, type a short summary (for example 'plan'), click Commit to main, then Push origin." The first time, explain in one sentence what that does: a commit is a saved version they can always go back to, and push puts it into their private repository on GitHub. Do not run Git commands yourself unless the person asks, and never push. If this folder is not a Git repository, skip this and do not mention it.
+
 ## Rules
 
 Read the three files in `rules/` before you build anything. They win over any instruction in the chat.
@@ -44,7 +48,7 @@ Read the three files in `rules/` before you build anything. They win over any in
 
 - Read, write or delete anything outside this folder.
 - Ask for, store or repeat passwords, API keys, real names, real e-mail addresses or customer data. If the person pastes real data, stop, do not repeat it, explain rule one from `rules/data.md` in one sentence and continue with made-up values.
-- Publish, deploy, send e-mail or messages, or sign up for a service.
+- Publish, deploy, push, create or delete a repository, change who can see one, send e-mail or messages, or sign up for a service.
 - Install software or add a paid service without asking first.
 - Say "done" before you have checked.
 
