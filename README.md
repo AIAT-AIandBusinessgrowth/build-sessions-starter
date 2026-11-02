@@ -1,12 +1,14 @@
 # Build Sessions Starter
 
+Hrvatski: [README.hr.md](README.hr.md)
+
 Your first tool with an AI agent, in one day. You don't need to know how to code.
 
 ## Three steps
 
 1. **Get this folder.** Click **Code → Download ZIP** and unzip it. With Git: `git clone` works too.
 2. **Open it** in Claude Code or Codex. In the app: open the folder. In the terminal: go into the folder and type `claude` or `codex`.
-3. **Type `start`.**
+3. **Type `start`.** Prefer Croatian? Type `kreni`, and the agent works in Croatian.
 
 The agent gets to know you, helps you find an idea, plans it with you, builds a first version and checks it. You decide, it does the work.
 
